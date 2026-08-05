@@ -97,18 +97,10 @@ Features
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/harshalparhad" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
-</a>
-
-<a href="https://github.com/harshalparhad" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="30" />
-</a>
-</p>
-
-📧 Email: [harshalparhad@gmail.com](mailto:harshalparhad@gmail.com)
+💼 LinkedIn: https://linkedin.com/in/harshalparhad
+💻 GitHub: https://github.com/harshalparhad
 🌐 Portfolio: https://harshal-parhad.netlify.app
+📧 Email: harshalparhad@gmail.com
 
 ---
 
