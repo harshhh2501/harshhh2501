@@ -2,7 +2,7 @@
 <h3 align="center">🚀 PHP & Laravel Developer</h3>
 
 <p align="center">
-Passionate about building secure, scalable, and high-performance web applications using PHP, Laravel, MySQL, JavaScript, and REST APIs. Experienced in developing real-world business applications, Admin Panels, Learning Management Systems, Booking Platforms, and CMS solutions while following clean code and MVC architecture.
+Passionate about building secure, scalable, and high-performance web applications using PHP, Laravel, CodeIgniter 4, MySQL, JavaScript, and REST APIs. Experienced in developing real-world business applications, Admin Panels, Learning Management Systems, Booking Platforms, and CMS solutions while following clean code and MVC architecture.
 </p>
 
 ---
