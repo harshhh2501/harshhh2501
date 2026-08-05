@@ -60,18 +60,31 @@ Passionate about building secure, scalable, and high-performance web application
 
 ## 🔥 Featured Projects
 
-### 📌 Afacere Solutions Booking Platform
+📚 Educational Vidya – LMS & Student Job Portal
 
-Production-level appointment booking platform with admin dashboard, SMTP email system, workflow automation, and Google Meet API integration.
+Tech Stack: PHP, Laravel, CodeIgniter 4, MySQL, JavaScript, Bootstrap
 
-### 📌 Publuu-Style Flipbook SaaS Platform
+Features
+* Multi-role Authentication
+* Teacher KYC Verification
+* Student Job Portal
+* Admin Dashboard
+* PDF Notes & Flipbook
+* Course Management
+* REST API Integration
 
-Interactive flipbook SaaS platform with PDF upload, analytics, sharing system, fullscreen mode, and realistic page-flip animation.
+📅 Afacere Solutions – Business Consulting Platform
 
-### 📌 ERP Management System
+Tech Stack: PHP, MySQL, JavaScript, Bootstrap
 
-ERP modules with CRUD operations, workflow automation, admin management, and responsive dashboard system.
-
+Features
+* Appointment Booking
+* Razorpay Payment Gateway
+* Event Registration
+* Admin CMS
+* Blog Management
+* E-book Management
+* Customer Inquiry System
 ---
 
 ## 📊 GitHub Activity
