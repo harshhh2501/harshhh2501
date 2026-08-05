@@ -12,9 +12,9 @@ Passionate about building secure, scalable, and high-performance web application
 * 💼 Software Developer at Sphurti WebApp Pvt. Ltd.
 * 🚀 Currently building web applications using PHP, Laravel & MySQL
 * 🌱 Learning Advanced Laravel, React.js, REST APIs & Modern Backend Development
-💡 Interested in SaaS Platforms, ERP Systems, APIs & Backend Architecture
-⚡ Strong knowledge of PHP, MySQL, JavaScript & MVC Architecture
-🎯 Goal: Become an Expert PHP Laravel Backend Developer
+* 💡 Interested in SaaS Platforms, ERP Systems, APIs & Backend Architecture
+* ⚡ Strong knowledge of PHP, MySQL, JavaScript & MVC Architecture
+* 🎯 Goal: Become an Expert PHP Laravel Backend Developer
 
 ---
 
