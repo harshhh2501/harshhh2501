@@ -2,39 +2,59 @@
 <h3 align="center">🚀 PHP & Laravel Developer</h3>
 
 <p align="center">
-Passionate about building scalable web applications, SaaS platforms, ERP systems, and modern user-friendly experiences.
+Passionate about building secure, scalable, and high-performance web applications using PHP, Laravel, MySQL, JavaScript, and REST APIs. Experienced in developing real-world business applications, Admin Panels, Learning Management Systems, Booking Platforms, and CMS solutions while following clean code and MVC architecture.
 </p>
 
 ---
 
 ## 💫 About Me
 
-* 🔭 Currently working on **Full Stack Web Applications**
-* 🌱 Learning **Advanced React.js & Modern Backend Systems**
-* 💡 Interested in **SaaS Platforms, APIs & UI/UX**
-* ⚡ Strong in **PHP, MySQL, JavaScript & Real-World Projects**
-* 🎯 Goal: Become a professional Full Stack Software Engineer
+💼 Software Developer at Sphurti WebApp Pvt. Ltd.
+🚀 Currently building web applications using PHP, Laravel & MySQL
+🌱 Learning Advanced Laravel, React.js, REST APIs & Modern Backend Development
+💡 Interested in SaaS Platforms, ERP Systems, APIs & Backend Architecture
+⚡ Strong knowledge of PHP, MySQL, JavaScript & MVC Architecture
+🎯 Goal: Become an Expert PHP Laravel Backend Developer
 
 ---
 
 ## 💻 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,js,react,mysql,html,css,nodejs,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,js,react,html,css,bootstrap,nodejs,git,github,vscode,postman&perline=7" />
 </p>
 
-### 🛠 Technologies & Tools
+### 🛠 Tech Stack
 
+💻 Backend
 * PHP
+* Laravel
+* CodeIgniter 4
+* Node.js
+* MVC Architecture
+* REST APIs
+* Authentication & Authorization
+* CRUD Operations
+
+🎨 Frontend
+* HTML5
+* CSS3
+* Bootstrap
 * JavaScript
 * React.js
+
+🗄 Database
 * MySQL
-* REST APIs
-* Google Meet API
-* PHPMailer
-* HTML5 & CSS3
+* PostgreSQL
+
+⚙ Tools
+* Composer
 * Git & GitHub
 * VS Code
+* Postman
+* XAMPP
+* cPanel
+* Netlify
 
 ---
 
