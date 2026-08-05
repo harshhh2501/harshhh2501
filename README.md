@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshal Parhad</h1>
-<h3 align="center">🚀 Full Stack Web Developer from India</h3>
+<h3 align="center">🚀 PHP & Laravel Developer</h3>
 
 <p align="center">
 Passionate about building scalable web applications, SaaS platforms, ERP systems, and modern user-friendly experiences.
