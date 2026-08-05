@@ -97,10 +97,10 @@ Features
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: https://linkedin.com/in/harshalparhad
-💻 GitHub: https://github.com/harshalparhad
-🌐 Portfolio: https://harshal-parhad.netlify.app
-📧 Email: harshalparhad@gmail.com
+* 💼 LinkedIn: https://linkedin.com/in/harshalparhad
+* 💻 GitHub: https://github.com/harshalparhad
+* 🌐 Portfolio: https://harshal-parhad.netlify.app
+* 📧 Email: harshalparhad@gmail.com
 
 ---
 
